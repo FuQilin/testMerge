@@ -11,5 +11,6 @@ public class HelloWorld {
 	
 	public static void macBranch(){
 		System.out.println("This is mac branch.");
+		System.out.println("Adding branch macff, testing fast forward");
 	}
 }
