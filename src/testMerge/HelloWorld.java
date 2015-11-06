@@ -13,4 +13,8 @@ public class HelloWorld {
 		System.out.println("This is mac branch.");
 		System.out.println("Adding branch macff, testing fast forward");
 	}
+	
+	public static void pcBranch(){
+		System.out.println("This is pc branch");
+	}
 }
